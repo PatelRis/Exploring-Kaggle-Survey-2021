@@ -12,9 +12,7 @@ Link: - https://lnkd.in/g-vCiJSf
 • Kaggle is dominated by young people with age below 30 years, with peak at age 25-29.
 
 • In 2021 Kaggle's users are dominantly by 𝐦𝐚𝐧 (79.3%), 𝐚𝐧𝐝 𝐰𝐨𝐦𝐚𝐧 (18.8%). 
-
 • More 77.1% of the users have master's and bachelor's degree.
-
 • 𝐏𝐲𝐭𝐡𝐨𝐧 is the winners in here, Python is the most popular programming languages among Kagglers in every continents.
 • 𝐉𝐮𝐩𝐲𝐭𝐞𝐫 is the most used IDE for Kagglers around the world.
 • 𝐌𝐚𝐭𝐩𝐥𝐨𝐭𝐥𝐢𝐛 is the most popular visualization libraries followed by Seaborn.
