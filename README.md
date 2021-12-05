@@ -6,6 +6,8 @@
 My kaggle notebook on 𝑬𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 🗺️| 𝑲𝒂𝒈𝒈𝒍𝒆 𝑺𝒖𝒓𝒗𝒆𝒚 2021
 Link: - https://lnkd.in/g-vCiJSf
 
+2021 Kaggle Machine Learning & Data Science Survey (Kaggle Competition) : - https://www.kaggle.com/c/kaggle-survey-2021
+
 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔:
 
 • 𝐀𝐬𝐢𝐚 is dominating in terms of number of Kaggler and it's mostly come from India. 𝐈𝐧𝐝𝐢𝐚 has the most Kaggler in the world.
